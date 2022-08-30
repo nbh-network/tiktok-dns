@@ -9,8 +9,8 @@
 		
 		{
 			"name": "xboxlive",
-			"description": "CDN for xboxlive",
-			"domain_files": ["xboxlive.txt"]
+			"description": "CDN for YouTube",
+			"domain_files": ["youtube.txt"]
 		}
 	]
 }
