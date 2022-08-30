@@ -8,10 +8,14 @@
 		},
 		{
 			"name": "tiktok",
+			"description": "CDN for instagram",
+			"domain_files": ["instagram.txt"]
+		},
+		{
+			"name": "tiktok",
 			"description": "CDN for FaceBook",
 			"domain_files": ["facebook.txt"]
 		},
-		
 		{
 			"name": "xboxlive",
 			"description": "CDN for YouTube",
