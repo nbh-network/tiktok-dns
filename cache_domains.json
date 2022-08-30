@@ -2,22 +2,22 @@
 	"cache_domains": [
 	
 		{
-			"name": "tiktok",
+			"name": "TikTok",
 			"description": "CDN for TikTok",
 			"domain_files": ["tiktok.txt"]
 		},
 		{
-			"name": "tiktok",
+			"name": "instagram",
 			"description": "CDN for instagram",
 			"domain_files": ["instagram.txt"]
 		},
 		{
-			"name": "tiktok",
+			"name": "FaceBook",
 			"description": "CDN for FaceBook",
 			"domain_files": ["facebook.txt"]
 		},
 		{
-			"name": "xboxlive",
+			"name": "YouTube",
 			"description": "CDN for YouTube",
 			"domain_files": ["youtube.txt"]
 		}
