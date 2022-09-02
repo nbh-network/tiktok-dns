@@ -5,7 +5,12 @@
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
 		},
-           {
+		{
+			"name": "google video",
+			"description": "CDN for google video",
+			"domain_files": ["google-video.txt"]
+		},
+                {
 			"name": "TikTok",
 			"description": "CDN for TikTok",
 			"domain_files": ["tiktok.txt"]
