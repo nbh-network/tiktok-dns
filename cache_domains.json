@@ -12,6 +12,11 @@
 			"domain_files": ["android.txt"]
 		},
 		{
+			"name": "dropbox",
+			"description": "CDN for dropbox",
+			"domain_files": ["dropbox.txt"]
+		},
+		{
 			"name": "Amazon",
 			"description": "CDN for Amazon",
 			"domain_files": ["amazon.txt"]
