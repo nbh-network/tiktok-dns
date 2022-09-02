@@ -8,7 +8,7 @@
 		{
 			"name": "google video",
 			"description": "CDN for google video",
-			"domain_files": ["google-video.txt"]
+			"domain_files": ["googlevideo.txt"]
 		},
                 {
 			"name": "TikTok",
