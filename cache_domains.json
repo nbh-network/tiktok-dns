@@ -7,6 +7,11 @@
 			"domain_files": ["tiktok.txt"]
 		},
 		{
+			"name": "Android",
+			"description": "CDN for Android",
+			"domain_files": ["android.txt"]
+		},
+		{
 			"name": "Amazon",
 			"description": "CDN for Amazon",
 			"domain_files": ["amazon.txt"]
