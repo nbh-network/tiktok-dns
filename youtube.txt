@@ -93,3 +93,4 @@ youtubei.googleapis.com
 youtubekids.com
 yt.be
 yt3.ggpht.com
+i-ytimg-com.cdn.ampproject.org
