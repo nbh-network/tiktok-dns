@@ -26,7 +26,6 @@ uploads.stage.gdata.youtube.com
 youtube.googleblog.com
 youtube.googleapis.com
 youtubei.googleapis.com
-youtube-ui.l.google.com
 www.youtube-nocookie.com
 s.youtube.com
 www.youtube.com
@@ -34,15 +33,12 @@ m.youtube.com
 youtube.com
 accounts.youtube.com
 img.youtube.com
-suggestqueries-clients6.youtube.com
 fcmatch.youtube.com
-signaler-pa.youtube.com
 music.youtube.com
 studio.youtube.com
 tv.youtube.com
 upload.youtube.com
 realtimesupport.youtube.com
-rr4.sn-woc7ln7y.c.youtube.com
 payments.youtube.com
 restrictmoderate.youtube.com
 rr5.sn-woc7ln7y.c.youtube.com
