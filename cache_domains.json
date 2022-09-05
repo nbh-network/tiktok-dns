@@ -72,6 +72,11 @@
 			"domain_files": ["wargaming.net.txt"]
 		},
 		{
+			"name": "domains",
+			"description": "CDN for domains",
+			"domain_files": ["bsg.txt"]
+		},
+		{
 			"name": "wsus",
 			"description": "CDN for windows updates",
 			"domain_files": ["windowsupdates.txt"]
