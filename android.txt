@@ -29,3 +29,10 @@ m.apkpure.com
 i.apkpure.com
 static.apkpure.com
 translate.apkpure.com
+apkpure.com
+a.apkpure.com
+download.apkpure.com
+m.apkpure.com
+i.apkpure.com
+static.apkpure.com
+translate.apkpure.com
