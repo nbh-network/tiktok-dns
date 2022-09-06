@@ -56,11 +56,7 @@
 			"description": "CDN for uplay downloader",
 			"domain_files": ["uplay.txt"]
 		},
-		{
-			"name": "teso",
-			"description": "CDN for The Elder Scrolls Online",
-			"domain_files": ["teso.txt"]
-		},
+
 		{
 			"name": "warframe",
 			"description": "CDN for Warframe",
@@ -71,11 +67,7 @@
 			"description": "CDN for wargaming.net",
 			"domain_files": ["wargaming.net.txt"]
 		},
-		{
-			"name": "domains",
-			"description": "CDN for domains",
-			"domain_files": ["bsg.txt"]
-		},
+
 		{
 			"name": "wsus",
 			"description": "CDN for windows updates",
