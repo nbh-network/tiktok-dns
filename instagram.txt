@@ -1,3 +1,13 @@
+instagram.fsub1-1.fna.fbcdn.net
+instagram.fagr1-1.fna.fbcdn.net
+instagram.fhga1-1.fna.fbcdn.net
+graph.instagram.com
+help.instagram.com
+edge-chat.instagram.com
+l.instagram.com
+instagram.fbga1-4.fna.fbcdn.net
+instagram.flas1-1.fna.fbcdn.net
+instagram.fjed4-1.fna.fbcdn.net
 *.cdninstagram.com
 scontent.cdninstagram.com
 scontent-syd2-1.cdninstagram.com
