@@ -1,0 +1,5 @@
+abs.twimg.com
+pbs.twimg.com
+ton.twimg.com
+cdn.syndication.twimg.com
+video.twimg.com
