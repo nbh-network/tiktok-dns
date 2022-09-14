@@ -11,6 +11,11 @@
 			"domain_files": ["googlevideo.txt"]
 		},
 		{
+			"name": "github",
+			"description": "CDN for github",
+			"domain_files": ["github.txt"]
+		},
+		{
 			"name": "adobe",
 			"description": "CDN for adobe",
 			"domain_files": ["adobe.txt"]
