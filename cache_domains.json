@@ -16,6 +16,11 @@
 			"domain_files": ["googlesearch.txt"]
 		},
 		{
+			"name": "twitter",
+			"description": "CDN for twitter",
+			"domain_files": ["twitter.txt"]
+		},
+		{
 			"name": "gmail",
 			"description": "CDN for gmail",
 			"domain_files": ["gmail.txt"]
