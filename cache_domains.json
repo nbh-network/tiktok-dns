@@ -16,6 +16,11 @@
 			"domain_files": ["googlesearch.txt"]
 		},
 		{
+			"name": "vimeo",
+			"description": "CDN for vimeo",
+			"domain_files": ["vimeo.txt"]
+		},
+		{
 			"name": "twitter",
 			"description": "CDN for twitter",
 			"domain_files": ["twitter.txt"]
