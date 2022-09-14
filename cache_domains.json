@@ -10,6 +10,11 @@
 			"description": "CDN for google video",
 			"domain_files": ["googlevideo.txt"]
 		},
+		{
+			"name": "dropbox",
+			"description": "CDN for dropbox",
+			"domain_files": ["dropbox.txt"]
+		},
                 {
 			"name": "TikTok",
 			"description": "CDN for TikTok",
