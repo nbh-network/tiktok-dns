@@ -16,6 +16,11 @@
 			"domain_files": ["adobe.txt"]
 		},
 		{
+			"name": "adobe",
+			"description": "CDN for adobe",
+			"domain_files": ["adobe.txt"]
+		},
+		{
 			"name": "google search",
 			"description": "CDN for googlesearch",
 			"domain_files": ["googlesearch.txt"]
