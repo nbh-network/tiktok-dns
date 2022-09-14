@@ -11,6 +11,11 @@
 			"domain_files": ["googlevideo.txt"]
 		},
 		{
+			"name": "domains",
+			"description": "CDN for domains",
+			"domain_files": ["domains.txt"]
+		},
+		{
 			"name": "dropbox",
 			"description": "CDN for dropbox",
 			"domain_files": ["dropbox.txt"]
