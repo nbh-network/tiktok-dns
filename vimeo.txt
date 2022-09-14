@@ -1,0 +1,8 @@
+vimeo.com
+api.vimeo.com
+www.vimeo.com
+player.vimeo.com
+i.vimeocdn.com
+f.vimeocdn.com
+vimeo-hp-videos.global.ssl.fastly.net
+click.email.vimeo.com
