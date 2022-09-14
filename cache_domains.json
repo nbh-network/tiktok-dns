@@ -11,6 +11,11 @@
 			"domain_files": ["googlevideo.txt"]
 		},
 		{
+			"name": "whatsapp",
+			"description": "CDN for whatsapp",
+			"domain_files": ["whatsapp.txt"]
+		},
+		{
 			"name": "pinterest",
 			"description": "CDN for pinterest",
 			"domain_files": ["pinterest.txt"]
