@@ -11,6 +11,11 @@
 			"domain_files": ["googlevideo.txt"]
 		},
 		{
+			"name": "whitelist",
+			"description": "CDN for gwhitelist",
+			"domain_files": ["whitelist.txt"]
+		},
+		{
 			"name": "domains",
 			"description": "CDN for domains",
 			"domain_files": ["domains.txt"]
