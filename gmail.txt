@@ -1,0 +1,12 @@
+gmail.com
+www.gmail.com
+googlemail.l.google.com
+mail-settings.google.com
+m.gmail.com
+m.googlemail.com
+gmail.google.com
+mail.google.com
+inbox.google.com
+chatenabled.mail.google.com
+filetransferenabled.mail.google.com
+isolated.mail.google.com
