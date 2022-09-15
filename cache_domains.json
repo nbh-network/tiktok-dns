@@ -11,6 +11,11 @@
 			"domain_files": ["urls.txt"]
 		},
 		{
+			"name": "bd",
+			"description": "CDN for bd",
+			"domain_files": ["bd.txt"]
+		},
+		{
 			"name": "CNN.COM",
 			"description": "CDN for CNN",
 			"domain_files": ["cnn.txt"]
