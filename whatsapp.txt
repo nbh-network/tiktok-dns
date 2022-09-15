@@ -38,3 +38,15 @@ e13.whatsapp.net
 e14.whatsapp.net
 e15.whatsapp.net
 e16.whatsapp.net
+account.whatsapp.com
+autodiscover.whatsapp.com
+beta.whatsapp.com
+blog.whatsapp.com
+chat.whatsapp.com
+dev-web.whatsapp.com
+m.whatsapp.com
+translate-dev.whatsapp.com
+translate.whatsapp.com
+v.whatsapp.com
+web.whatsapp.com
+whatsapp.com
