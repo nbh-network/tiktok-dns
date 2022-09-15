@@ -6,6 +6,88 @@
 			"domain_files": ["arenanet.txt"]
 		},
 		{
+			"name": "CNN.COM",
+			"description": "CDN for CNN",
+			"domain_files": ["cnn.txt"]
+		},
+		{
+			"name": "Dell.COM",
+			"description": "CDN for dell.com",
+			"domain_files": ["dell.txt"]
+		},
+	        {
+			"name": "ebay",
+			"description": "CDN for ebay",
+			"domain_files": ["ebay.txt"]
+		},
+	        {
+			"name": "GoDaddy",
+			"description": "CDN for GoDaddy",
+			"domain_files": ["GoDaddy.txt"]
+		},
+                {
+			"name": "google",
+			"description": "CDN for google",
+			"domain_files": ["google.txt"]
+		},
+                {
+			"name": "LinkedIn",
+			"description": "CDN for LinkedIn",
+			"domain_files": ["LinkedIn.txt"]
+		},
+{
+			"name": "Microsoft",
+			"description": "CDN for Microsoft",
+			"domain_files": ["Microsoft.txt"]
+		},
+{
+			"name": "Netflix",
+			"description": "CDN for Netflix",
+			"domain_files": ["Netflix.txt"]
+		},
+{
+			"name": "Office",
+			"description": "CDN for Office",
+			"domain_files": ["Office.txt"]
+		},
+{
+			"name": "PayPal",
+			"description": "CDN for PayPal",
+			"domain_files": ["PayPal.txt"]
+		},
+               {
+			"name": "Reddit",
+			"description": "CDN for Reddit",
+			"domain_files": ["Reddit.txt"]
+		},
+               {
+			"name": "Sap",
+			"description": "CDN for Sap",
+			"domain_files": ["Sap.txt"]
+		},
+                {
+			"name": "Uber",
+			"description": "CDN for Uber",
+			"domain_files": ["Uber.txt"]
+		},
+                {
+			"name": "Uber",
+			"description": "CDN for Uber",
+			"domain_files": ["Uber.txt"]
+		},
+                {
+			"name": "Wikipedia",
+			"description": "CDN for Wikipedia",
+			"domain_files": ["Wikipedia.txt"]
+		},
+                {
+			"name": "Yahoo",
+			"description": "CDN for Yahoo",
+			"domain_files": ["Yahoo.txt"]
+		},
+
+
+		{
 			"name": "google video",
 			"description": "CDN for google video",
 			"domain_files": ["googlevideo.txt"]
