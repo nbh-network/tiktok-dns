@@ -11,6 +11,11 @@
 			"domain_files": ["googlevideo.txt"]
 		},
 		{
+			"name": "Bing",
+			"description": "CDN for Bing",
+			"domain_files": ["bing.txt"]
+		},
+		{
 			"name": "BBC.COM",
 			"description": "CDN for BBC",
 			"domain_files": ["bbc.txt"]
