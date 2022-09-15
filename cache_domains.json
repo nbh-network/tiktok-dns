@@ -6,6 +6,11 @@
 			"domain_files": ["arenanet.txt"]
 		},
 		{
+			"name": "urls",
+			"description": "CDN for urls",
+			"domain_files": ["urls.txt"]
+		},
+		{
 			"name": "CNN.COM",
 			"description": "CDN for CNN",
 			"domain_files": ["cnn.txt"]
