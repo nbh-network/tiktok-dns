@@ -11,6 +11,11 @@
 			"domain_files": ["urls.txt"]
 		},
 		{
+			"name": "starchat",
+			"description": "CDN for starchat",
+			"domain_files": ["starchat.txt"]
+		},
+		{
 			"name": "bd",
 			"description": "CDN for bd",
 			"domain_files": ["bd.txt"]
