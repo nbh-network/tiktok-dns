@@ -1,0 +1,8 @@
+reseller.teenpattigold.com
+static.teenpattigold.com
+www.teenpattigold.com
+logs.teenpattigold.com
+demo.teenpattigold.com
+new.teenpattigold.com
+router.teenpattigold.com
+teenpattigold.com
