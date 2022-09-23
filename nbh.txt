@@ -41,6 +41,8 @@ ec2-34-251-98-238.eu-west-1.compute.amazonaws.com
 ec2-52-51-174-68.eu-west-1.compute.amazonaws.com
 ec2-176-34-207-153.eu-west-1.compute.amazonaws.com
 ec2-18-200-209-97.eu-west-1.compute.amazonaws.com
+ec2-63-32-129-213.eu-west-1.compute.amazonaws.com
+ec2-3-108-108-100.ap-south-1.compute.amazonaws.com
 del03s10-in-f14.1e100.net
 del03s17-in-f14.1e100.net
 del03s18-in-f10.1e100.net
@@ -112,6 +114,8 @@ sd-in-f101.1e100.net
 sm-in-f188.1e100.net
 time2.google.com
 cache.google.com
+78.24.87.34.bc.googleusercontent.com
+146.242.93.34.bc.googleusercontent.com
 whatsapp-chatd-msgr-mini-edge-shv-01-ccu1.facebook.com
 whatsapp-chatd-edge-shv-01-ccu1.facebook.com
 edge-star-shv-01-ccu1.facebook.com
@@ -119,9 +123,10 @@ edge-msgr-latest-shv-01-ccu1.facebook.com
 xx-fbcdn-shv-01-ccu1.fbcdn.net
 instagram-p3-shv-01-ccu1.fbcdn.net
 144.48.148.206.summitiig.net
-144.48.148.206.summitiig.net
 103.15.244.146.summitiig.net
 103.15.244.144.summitiig.net
 103.15.244.142.summitiig.net
 103.242.216.109.summitiig.net
 103.242.216.108.summitiig.net
+144.48.148.207.summitiig.net
+a23-54-81-25.deploy.static.akamaitechnologies.com
